@@ -1,20 +1,23 @@
 module.exports = {
   /** Application Name, will be shown on the index page */
-  appName: 'Notiolink',
+  appName: 'adanngrha.link',
 
   /** Description for SEO */
   seoDescription:
-    'Self-hostable branded link shortener built with Next.js & Notion API',
+    'Future Software Engineer',
 
+  /** Twitter account for SEO */
+  twitter: '@adanngrha',
+  
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  deployUrl: 'https://notiolink.thcl.dev',
+  deployUrl: 'https://adanngrha.vercel.app',
 
   /**
    * Color theme for the app
    * @type {'light' | 'dark' | 'milky' | 'street' | 'monokai'}
    */
-  theme: 'dark',
+  theme: 'monokai',
 
   /** REQUIRED CONFIG: Set this to 'false'  */
-  demoMode: 'true',
+  demoMode: 'false',
 };
