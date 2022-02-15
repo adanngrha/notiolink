@@ -1,6 +1,6 @@
 module.exports = {
   /** Application Name, will be shown on the index page */
-  appName: 'Adan Nugraha',
+  appName: 'Ardana Nugraha',
 
   /** Description for SEO */
   seoDescription:
