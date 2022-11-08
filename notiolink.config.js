@@ -16,7 +16,7 @@ module.exports = {
    * Color theme for the app
    * @type {'light' | 'dark' | 'milky' | 'street' | 'monokai'}
    */
-  theme: 'milky',
+  theme: 'monokai',
 
   /** REQUIRED CONFIG: Set this to 'false'  */
   demoMode: 'false',
